@@ -2,7 +2,7 @@ import numpy as _np
 import matplotlib.pyplot as _plt 
 import scipy.integrate as _scyint
 
-
+erro
 class Basic_kinematics():
 
     def __init__(self, learning_level, v_0=None, s_0=None, time=None):
